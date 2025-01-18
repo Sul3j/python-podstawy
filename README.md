@@ -1,4 +1,5 @@
 🐍 Kurs Podstaw w Języku Python – Dla Początkujących 📘
+
 W tym repozytorium znajdziesz materiały do kursu podstawowego w języku Python, który pomoże Ci rozpocząć przygodę z programowaniem. Kurs obejmuje kluczowe zagadnienia, które stanowią fundament w nauce Pythona. Idealny dla osób, które zaczynają swoją drogę w programowaniu!
 
 Zawartość repozytorium:
